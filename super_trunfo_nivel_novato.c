@@ -5,7 +5,8 @@ int main() {
 char estado1;
 char codigo1[4];
 char nome1[50];
-int população1;
+int populacao1;
+float area2;
 float pib1;
 int pontos_turisticos1;
 
@@ -13,7 +14,7 @@ int pontos_turisticos1;
 char estado2;
 char codigo2[4];
 char nome2[50];
-int população2;
+int populacao2;
 float area2;
 flpat pib2;
 int pontos_turisticos;
@@ -28,7 +29,7 @@ printf("Nome: ");
 scanf("%s", &nome1);
 printf("Populacao: ");
 scanf("%d", &populacao1);
-printf("Área: ")
+printf("Área: ");
 scanf("%f", &area1);
 printf("PIB: ");
 scanf("%f", &pib1);
@@ -45,7 +46,7 @@ printf("Nome: ");
 scanf("%s", &nome2);
 printf("Populacao: ");
 scanf("%d", &populacao2);
-printf("Área: ")
+printf("Área: ");
 scanf("%f", &area2);
 printf("PIB: ");
 scanf("%f", &pib2);
