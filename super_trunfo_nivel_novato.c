@@ -53,6 +53,9 @@ scanf("%f", &pib2);
 printf("Número de Pontos Turísticos: ");
 scanf("%d", &pontos_turisticos2);
 
+// Exibição dos dados das cartas
+printf("\nDados das Cartas:\n");
+ 
 //Exibição dos dados das cartas
 printf ("\nCarta 1\n");
 printf("Estado: %c\n", estado1);
